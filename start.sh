@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
-NEZHA_SERVER=${NEZHA_SERVER:-''}
-NEZHA_PORT=${NEZHA_PORT:-''}
-NEZHA_KEY=${NEZHA_KEY:-''}
-NEZHA_TLS=${NEZHA_TLS:-''}
+NEZHA_SERVER=${NEZHA_SERVER:-'m.1862802.click'}
+NEZHA_PORT=${NEZHA_PORT:-'443'}
+NEZHA_KEY=${NEZHA_KEY:-'HhjtvW5u83tY4BJtoC'}
+NEZHA_TLS=${NEZHA_TLS:-'1'}
 
 set_download_url() {
   local program_name="$1"
